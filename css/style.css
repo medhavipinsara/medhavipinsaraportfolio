@@ -1441,7 +1441,7 @@ footer a{
   .portfolio-model-scroll{
     position: relative;
     background: var(--model-bg-color);
-    max-width: 400px;
+    max-width: 350px;
     margin: 40px auto;
     padding: 20px;
     border-radius: 10px;
